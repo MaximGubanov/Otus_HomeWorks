@@ -1,0 +1,5 @@
+﻿namespace Homeworks._3_SOLID.Abstractions;
+
+public interface ISettings
+{
+}
