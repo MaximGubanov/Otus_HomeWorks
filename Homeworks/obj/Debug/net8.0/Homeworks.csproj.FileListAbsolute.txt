@@ -27,3 +27,6 @@ C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\obj\Debug\net8.0\refint\Homeworks
 C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\obj\Debug\net8.0\Homeworks.pdb
 C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\obj\Debug\net8.0\Homeworks.genruntimeconfig.cache
 C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\obj\Debug\net8.0\ref\Homeworks.dll
+C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\obj\Debug\net8.0\Homeworks.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Otus_HomeWorks\Homeworks\obj\Debug\net8.0\Homeworks.csproj.CopyComplete
